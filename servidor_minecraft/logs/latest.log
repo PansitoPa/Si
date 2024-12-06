@@ -2183,3 +2183,39 @@ BCLib - The End  BiomeSource (701eb29b)
 [01:56:25] [Server thread/INFO]: juab2as has made the advancement [Suit Up]
 [01:56:26] [Server thread/INFO]: juab2as claimed a grave belonging to juab2as at -384, 9, -634, minecraft:overworld
 [01:56:59] [Server thread/INFO]: juab2as has made the advancement [Hearty Meal]
+[02:20:52] [Server thread/INFO]: [Handshake] Sending channel query
+[02:20:53] [Netty Epoll Server IO #3/INFO]: [Handshake] Receiving client channels
+[02:20:53] [Netty Epoll Server IO #3/INFO]: [Handshake] Handshake completed successfully
+[02:20:53] [Server thread/INFO]: PansitoPa[/[0:0:0:0:0:0:0:1%0]:40196] logged in with entity id 7642 at (-332.5, 64.0, -503.5)
+[02:20:53] [Server thread/INFO]: Sending server config values to client
+[02:20:53] [Server thread/INFO]: Syncing config to PansitoPa (e8a8e7fa-d7a1-3c0f-99c2-eb8bb489a7c1)
+[02:20:53] [Server thread/INFO]: Loading config from file...
+[02:20:53] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[02:20:53] [Server thread/INFO]: PansitoPa joined the game
+[02:20:53] [Server thread/INFO]: Updating all forceload tickets for e8a8e7fa-d7a1-3c0f-99c2-eb8bb489a7c1
+[02:20:53] [Server thread/INFO]: PLAYER_JOIN
+[02:20:53] [Server thread/INFO]: add_player wand
+[02:20:53] [Server thread/INFO]: config sent
+[02:20:53] [Server thread/INFO]: PansitoPa has made the advancement [Mythic Mobs]
+[02:20:56] [Netty Epoll Server IO #3/INFO]: Receiving client config
+[02:21:01] [Netty Epoll Server IO #3/INFO]: [Ping-Wheel] Channel update: PansitoPa -> Global
+[02:21:01] [Netty Epoll Server IO #3/INFO]: Priority overwritten for player PansitoPa. Claiming: GRAVE / Robbing: INVENTORY
+[02:21:04] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of PansitoPa accepted server config.
+[02:23:22] [Server thread/INFO]: [Handshake] Sending channel query
+[02:23:23] [Netty Epoll Server IO #5/INFO]: [Handshake] Receiving client channels
+[02:23:23] [Netty Epoll Server IO #5/INFO]: [Handshake] Handshake completed successfully
+[02:23:23] [Server thread/INFO]: PawAngAng[/[0:0:0:0:0:0:0:1%0]:48182] logged in with entity id 8049 at (-327.5, 63.0, -519.5)
+[02:23:23] [Server thread/INFO]: Sending server config values to client
+[02:23:23] [Server thread/INFO]: Syncing config to PawAngAng (1e9aaa3f-dc45-3770-b2e1-26e6185565b6)
+[02:23:23] [Server thread/INFO]: Loading config from file...
+[02:23:23] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[02:23:23] [Server thread/INFO]: PawAngAng joined the game
+[02:23:23] [Server thread/INFO]: Updating all forceload tickets for 1e9aaa3f-dc45-3770-b2e1-26e6185565b6
+[02:23:23] [Server thread/INFO]: PLAYER_JOIN
+[02:23:23] [Server thread/INFO]: add_player wand
+[02:23:23] [Server thread/INFO]: config sent
+[02:23:23] [Server thread/INFO]: PawAngAng has made the advancement [Mythic Mobs]
+[02:23:25] [Netty Epoll Server IO #5/INFO]: Receiving client config
+[02:23:27] [Netty Epoll Server IO #5/INFO]: [Ping-Wheel] Channel update: PawAngAng -> Global
+[02:23:27] [Netty Epoll Server IO #5/INFO]: Priority overwritten for player PawAngAng. Claiming: GRAVE / Robbing: INVENTORY
+[02:23:30] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of PawAngAng accepted server config.

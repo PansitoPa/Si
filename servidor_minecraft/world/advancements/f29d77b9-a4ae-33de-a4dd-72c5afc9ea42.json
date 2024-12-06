@@ -1766,6 +1766,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2024-12-06 02:12:26 +0000",
       "bread": "2024-12-06 01:43:40 +0000"
     },
     "done": false
@@ -6129,7 +6130,8 @@
   },
   "techreborn:root": {
     "criteria": {
-      "crit_2": "2024-12-06 01:50:51 +0000"
+      "crit_2": "2024-12-06 01:50:51 +0000",
+      "crit_0": "2024-12-06 02:10:57 +0000"
     },
     "done": false
   },
@@ -6485,6 +6487,12 @@
   "techreborn:recipes/assembling_machine/coast_armor_trim_smithing_template": {
     "criteria": {
       "has_cobblestone": "2024-12-06 01:39:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/bauxite_dust_from_bauxite_ore_with_water": {
+    "criteria": {
+      "has_tag_c_bauxite_ores": "2024-12-06 02:10:57 +0000"
     },
     "done": true
   },
