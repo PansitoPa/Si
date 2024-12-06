@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "1e9aaa3fdc453770b2e126e6185565b6"
+	name: "PawAngAng#1e9aaa3f"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		7B701D980200A661: 1
+	}
+	started: {
+		7539C31213D86E55: 1733451803604L
+		0000000000000001: 1733451803604L
+		7B701D980200A661: 1733451803604L
+		1DD302BB650057E3: 1733451803604L
+	}
+	completed: {
+		7B701D980200A661: 1733451803604L
+		1DD302BB650057E3: 1733451803604L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}

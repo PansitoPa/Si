@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "e8a8e7fad7a13c0f99c2eb8bb489a7c1"
+	name: "PansitoPa#e8a8e7fa"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		7B701D980200A661: 1
+	}
+	started: {
+		7539C31213D86E55: 1733451653761L
+		0000000000000001: 1733451653761L
+		7B701D980200A661: 1733451653761L
+		1DD302BB650057E3: 1733451653761L
+	}
+	completed: {
+		7B701D980200A661: 1733451653761L
+		1DD302BB650057E3: 1733451653761L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}

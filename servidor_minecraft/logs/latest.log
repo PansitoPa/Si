@@ -2219,3 +2219,31 @@ BCLib - The End  BiomeSource (701eb29b)
 [02:23:27] [Netty Epoll Server IO #5/INFO]: [Ping-Wheel] Channel update: PawAngAng -> Global
 [02:23:27] [Netty Epoll Server IO #5/INFO]: Priority overwritten for player PawAngAng. Claiming: GRAVE / Robbing: INVENTORY
 [02:23:30] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of PawAngAng accepted server config.
+[02:24:20] [spark-async-sampler-worker-thread/WARN]: Timed out waiting for world statistics
+[02:24:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19290ms or 385 ticks behind
+[02:24:54] [Server thread/INFO]: Made PansitoPa a server operator
+[02:24:54] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of PansitoPa accepted server config.
+[02:25:00] [Server thread/INFO]: [Handshake] Sending channel query
+[02:25:01] [Netty Epoll Server IO #7/INFO]: [Handshake] Receiving client channels
+[02:25:01] [Netty Epoll Server IO #7/INFO]: [Handshake] Handshake completed successfully
+[02:25:01] [Server thread/INFO]: PawAngAng lost connection: You logged in from another location
+[02:25:01] [Server thread/INFO]: PawAngAng left the game
+[02:25:01] [Server thread/INFO]: remove player wand
+[02:25:01] [Server thread/INFO]: Updating all forceload tickets for 1e9aaa3f-dc45-3770-b2e1-26e6185565b6
+[02:25:01] [Server thread/INFO]: PawAngAng[/[0:0:0:0:0:0:0:1%0]:33642] logged in with entity id 8265 at (-328.4225043204591, 64.0, -512.5585926967833)
+[02:25:01] [Server thread/INFO]: Sending server config values to client
+[02:25:01] [Server thread/INFO]: Syncing config to PawAngAng (1e9aaa3f-dc45-3770-b2e1-26e6185565b6)
+[02:25:01] [Server thread/INFO]: Loading config from file...
+[02:25:01] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[02:25:01] [Server thread/INFO]: PawAngAng joined the game
+[02:25:01] [Server thread/INFO]: Updating all forceload tickets for 1e9aaa3f-dc45-3770-b2e1-26e6185565b6
+[02:25:01] [Server thread/INFO]: PLAYER_JOIN
+[02:25:01] [Server thread/INFO]: add_player wand
+[02:25:01] [Server thread/INFO]: config sent
+[02:25:02] [Server thread/INFO]: [PansitoPa: Made PawAngAng a server operator]
+[02:25:02] [Netty Epoll Server IO #7/INFO]: Receiving client config
+[02:25:03] [Netty Epoll Server IO #7/INFO]: [Ping-Wheel] Channel update: PawAngAng -> Global
+[02:25:03] [Netty Epoll Server IO #7/INFO]: Priority overwritten for player PawAngAng. Claiming: GRAVE / Robbing: INVENTORY
+[02:25:04] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of PawAngAng accepted server config.
+[02:25:15] [Server thread/INFO]: [PansitoPa: Teleported PansitoPa to juab2as]
+[02:25:28] [Server thread/INFO]: [PansitoPa: Teleported PansitoPa to PawAngAng]
