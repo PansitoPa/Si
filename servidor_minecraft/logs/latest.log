@@ -2225,3 +2225,14 @@ BCLib - The End  BiomeSource (4431a6e7)
 [03:05:12] [Server thread/INFO]: [PansitoPa: Teleported PansitoPa to -521.500000, 75.000000, -783.500000]
 [03:05:15] [Server thread/INFO]: PansitoPa claimed a grave belonging to PansitoPa at -522, 80, -780, minecraft:overworld
 [03:05:30] [Server thread/INFO]: PansitoPa has made the advancement [Stone Age]
+[03:12:38] [Server thread/INFO]: PansitoPa was shot by Skeleton
+[03:12:39] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of PansitoPa accepted server config.
+[03:12:54] [Server thread/INFO]: [PansitoPa: Teleported PansitoPa to -483.500000, -8.000000, -823.500000]
+[03:12:56] [Server thread/INFO]: PansitoPa claimed a grave belonging to PansitoPa at -484, -8, -824, minecraft:overworld
+[03:16:30] [Server thread/INFO]: PansitoPa has made the advancement [Barrel Booty]
+[03:19:15] [Server thread/INFO]: PansitoPa was slain by Spider
+[03:19:17] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of PansitoPa accepted server config.
+[03:19:19] [Server thread/INFO]: PawAngAng lost connection: Timed out
+[03:19:19] [Server thread/INFO]: PawAngAng left the game
+[03:19:19] [Server thread/INFO]: remove player wand
+[03:19:19] [Server thread/INFO]: Updating all forceload tickets for 1e9aaa3f-dc45-3770-b2e1-26e6185565b6
