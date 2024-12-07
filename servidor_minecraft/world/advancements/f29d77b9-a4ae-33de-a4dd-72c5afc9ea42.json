@@ -4852,9 +4852,10 @@
   "techreborn:root": {
     "criteria": {
       "crit_2": "2024-12-06 01:50:51 +0000",
+      "crit_1": "2024-12-07 02:29:24 +0000",
       "crit_0": "2024-12-06 02:10:57 +0000"
     },
-    "done": false
+    "done": true
   },
   "techreborn:recipes/misc/crafting_table/armor/peridot_leggings": {
     "criteria": {
@@ -6796,6 +6797,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-07 02:29:11 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-07 02:23:57 +0000"
@@ -6814,6 +6821,18 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-07 02:29:11 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_granite_brick_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-07 02:29:11 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/potato_chips": {
     "criteria": {
       "has_potato": "2024-12-07 02:07:14 +0000"
@@ -6829,6 +6848,18 @@
   "stoneworks:recipes/building_blocks/andesite_pavers_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-07 02:23:57 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-07 02:29:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-07 02:29:11 +0000"
     },
     "done": true
   },
@@ -6856,9 +6887,33 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/granite_corner_trim": {
+    "criteria": {
+      "has_granite_corner_trim": "2024-12-07 02:29:11 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_brick_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-07 02:23:57 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_tiles_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-07 02:29:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-07 02:29:11 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_granite_bricks_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-07 02:29:11 +0000"
     },
     "done": true
   },
@@ -6878,6 +6933,12 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-07 02:07:30 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/stackable_log": {
+    "criteria": {
+      "has_oak_log": "2024-12-07 02:34:46 +0000"
     },
     "done": true
   },
@@ -6965,6 +7026,18 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/granite_paver_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-07 02:29:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_brick_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-07 02:29:11 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/carrot": {
     "criteria": {
       "has_carrot": "2024-12-07 02:07:03 +0000"
@@ -6974,6 +7047,18 @@
   "croptopia:recipes/misc/meringue": {
     "criteria": {
       "has_egg": "2024-12-07 02:13:09 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-07 02:29:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2024-12-07 02:29:11 +0000"
     },
     "done": true
   },
@@ -7049,6 +7134,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cracked_granite_tiles_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-07 02:29:11 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine/chemical_reactor": {
     "criteria": {
       "has_advanced_circuit": "2024-12-07 02:06:49 +0000"
@@ -7058,6 +7149,18 @@
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2024-12-07 02:10:56 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_brick_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-07 02:29:11 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-07 02:29:11 +0000"
     },
     "done": true
   },
@@ -7073,6 +7176,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_granite_brick_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-07 02:29:11 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/pedestal": {
     "criteria": {
       "has_stone_bricks": "2024-12-07 02:10:54 +0000"
@@ -7082,6 +7191,12 @@
   "create:recipes/building_blocks/small_andesite_bricks_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-07 02:23:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-07 02:29:11 +0000"
     },
     "done": true
   },
@@ -7103,6 +7218,30 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/raw_lead": {
+    "criteria": {
+      "has_raw_lead_ores": "2024-12-07 02:29:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/granite_pillar_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-07 02:29:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-07 02:29:11 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_shingle_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-07 02:29:11 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-07 02:23:57 +0000"
@@ -7112,6 +7251,12 @@
   "techreborn:recipes/blast_furnace/gold_nugget_from_sword": {
     "criteria": {
       "has_golden_sword": "2024-12-07 02:11:06 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_tile_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-07 02:29:11 +0000"
     },
     "done": true
   },
@@ -7169,15 +7314,39 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_granite_brick_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-07 02:29:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-07 02:07:30 +0000"
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/oak_palisade": {
+    "criteria": {
+      "has_log": "2024-12-07 02:34:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-07 02:07:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-07 02:29:11 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_paver_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-07 02:29:11 +0000"
     },
     "done": true
   },
@@ -7241,6 +7410,18 @@
     },
     "done": true
   },
+  "vinery:recipes/grapevine_stem": {
+    "criteria": {
+      "has_oak_log": "2024-12-07 02:34:46 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_plate_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-07 02:29:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_mob_near_sculk_catalyst": {
     "criteria": {
       "kill_mob_near_sculk_catalyst": "2024-12-07 02:12:26 +0000"
@@ -7250,6 +7431,12 @@
   "farmersdelight:recipes/cooking/beef_stew": {
     "criteria": {
       "has_any_ingredient": "2024-12-07 02:07:03 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_paver_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-07 02:29:11 +0000"
     },
     "done": true
   },
@@ -7268,6 +7455,12 @@
   "copycats:recipes/misc/stonecutting/copycat_board": {
     "criteria": {
       "has_item": "2024-12-07 02:07:02 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_pillar_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-07 02:29:11 +0000"
     },
     "done": true
   },
@@ -7307,6 +7500,18 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/granite_plates_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-07 02:29:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-07 02:29:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2024-12-07 02:05:33 +0000"
@@ -7319,9 +7524,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_granite_brick_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-07 02:29:11 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine/player_detector": {
     "criteria": {
       "has_advanced_circuit": "2024-12-07 02:06:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-07 02:29:11 +0000"
     },
     "done": true
   },
@@ -7340,6 +7557,12 @@
   "techreborn:recipes/misc/crafting_table/storage_block/nickel_storage_block": {
     "criteria": {
       "has_nickel_ingot": "2024-12-07 02:07:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_brick_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-07 02:29:11 +0000"
     },
     "done": true
   },
@@ -7367,9 +7590,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2024-12-07 02:29:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-07 02:29:11 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_pavers_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-07 02:29:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-07 02:07:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_brick_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-07 02:29:11 +0000"
     },
     "done": true
   },
@@ -7382,6 +7629,18 @@
   "copycats:recipes/misc/stonecutting/copycat_half_panel": {
     "criteria": {
       "has_item": "2024-12-07 02:07:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-07 02:29:11 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/granite_pillar_trim": {
+    "criteria": {
+      "has_granite_pillar_trim": "2024-12-07 02:29:11 +0000"
     },
     "done": true
   },
@@ -7415,9 +7674,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/granite_tile_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-07 02:29:11 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/dark_oak_palisade": {
     "criteria": {
       "has_log": "2024-12-07 02:06:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-12-07 02:34:46 +0000"
     },
     "done": true
   },
@@ -7511,6 +7782,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/oak_shrub": {
+    "criteria": {
+      "has_oak_sapling": "2024-12-07 02:34:45 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_plate_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-07 02:23:57 +0000"
@@ -7536,6 +7813,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/granite_tile_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-07 02:29:11 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/misc/stonecutting/copycat_fence_gate": {
     "criteria": {
       "has_item": "2024-12-07 02:07:02 +0000"
@@ -7545,6 +7828,12 @@
   "techreborn:recipes/blast_furnace/sheaf_pottery_sherd": {
     "criteria": {
       "has_wheat": "2024-12-07 02:06:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-07 02:29:11 +0000"
     },
     "done": true
   },
@@ -7563,6 +7852,12 @@
   "techreborn:recipes/crafting_table/machine/auto_crafting_table": {
     "criteria": {
       "has_advanced_circuit": "2024-12-07 02:06:49 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/smelting/lead_ingot_from_c_raw_lead_ores": {
+    "criteria": {
+      "has_tag_c_raw_lead_ores": "2024-12-07 02:29:24 +0000"
     },
     "done": true
   },
@@ -7587,6 +7882,12 @@
   "create:recipes/misc/crafting/materials/andesite_alloy_from_zinc": {
     "criteria": {
       "has_item": "2024-12-07 02:07:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-07 02:29:11 +0000"
     },
     "done": true
   },
@@ -7656,6 +7957,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/granite_brick_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-07 02:29:11 +0000"
+    },
+    "done": true
+  },
   "brewery:recipes/pretzel": {
     "criteria": {
       "has_wheat": "2024-12-07 02:06:58 +0000"
@@ -7674,6 +7981,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/granite_shingle_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-07 02:29:11 +0000"
+    },
+    "done": true
+  },
   "naturalist:recipes/food/cake": {
     "criteria": {
       "has_the_recipe": "2024-12-07 02:13:09 +0000"
@@ -7686,6 +7999,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-07 02:29:11 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-07 02:23:57 +0000"
@@ -7695,6 +8014,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2024-12-07 02:23:57 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-07 02:29:11 +0000"
     },
     "done": true
   },
@@ -7722,6 +8047,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_granite_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-07 02:29:11 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_granite_bricks_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-07 02:29:11 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/dark_oak_branch_from_dark_oak_log": {
     "criteria": {
       "has_log": "2024-12-07 02:06:59 +0000"
@@ -7737,6 +8074,12 @@
   "stoneworks:recipes/building_blocks/cracked_andesite_tiles_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-07 02:23:57 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_plate_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-07 02:29:11 +0000"
     },
     "done": true
   },
@@ -7761,6 +8104,12 @@
   "croptopia:recipes/chilli_relleno": {
     "criteria": {
       "has_egg": "2024-12-07 02:13:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-07 02:29:11 +0000"
     },
     "done": true
   },
@@ -7800,9 +8149,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2024-12-07 02:29:11 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/mango_ice_cream": {
     "criteria": {
       "has_mango": "2024-12-07 02:09:00 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_bricks_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-07 02:29:11 +0000"
     },
     "done": true
   },
@@ -7812,9 +8173,27 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/blasting/lead_ingot_from_c_raw_lead_ores": {
+    "criteria": {
+      "has_tag_c_raw_lead_ores": "2024-12-07 02:29:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2024-12-07 02:29:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2024-12-07 02:10:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-07 02:29:11 +0000"
     },
     "done": true
   },
@@ -7824,9 +8203,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/granite_plate_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-07 02:29:11 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/scrambled_eggs": {
     "criteria": {
       "has_egg": "2024-12-07 02:13:09 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/oak_branch_from_oak_log": {
+    "criteria": {
+      "has_log": "2024-12-07 02:34:46 +0000"
     },
     "done": true
   },
@@ -7848,9 +8239,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_granite_brick_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-07 02:29:11 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/andesite_pillar_trim": {
     "criteria": {
       "has_andesite_pillar_trim": "2024-12-07 02:23:57 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_brick_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-07 02:29:11 +0000"
     },
     "done": true
   },
@@ -7881,6 +8284,18 @@
   "techreborn:recipes/centrifuge/potato": {
     "criteria": {
       "has_potato": "2024-12-07 02:07:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-07 02:34:46 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-07 02:29:11 +0000"
     },
     "done": true
   },
@@ -7938,6 +8353,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/layered_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-07 02:29:11 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-07 02:23:57 +0000"
@@ -7956,9 +8377,27 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/peach_sapling": {
+    "criteria": {
+      "has_peach": "2024-12-07 02:34:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_brick_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-07 02:29:11 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_brick_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-07 02:23:57 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_shingles_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-07 02:29:11 +0000"
     },
     "done": true
   },
@@ -7968,15 +8407,33 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_granite_bricks_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-07 02:29:11 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/storage_block/zinc_storage_block": {
     "criteria": {
       "has_zinc_ingot": "2024-12-07 02:07:02 +0000"
     },
     "done": true
   },
+  "croptopia:recipes/misc/peach_jam": {
+    "criteria": {
+      "has_peach": "2024-12-07 02:34:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-12-07 02:10:54 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/raw_raw_lead_storage_block": {
+    "criteria": {
+      "has_raw_lead": "2024-12-07 02:29:24 +0000"
     },
     "done": true
   },
@@ -7989,6 +8446,12 @@
   "create:recipes/building_blocks/polished_cut_andesite_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-07 02:23:57 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_shingle_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-07 02:29:11 +0000"
     },
     "done": true
   },
@@ -8010,9 +8473,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_granite_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-07 02:29:11 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:teleportation/is_near_beehive": {
     "criteria": {
       "is_near_beehive": "2024-12-07 02:17:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_bricks_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-07 02:29:11 +0000"
     },
     "done": true
   },
@@ -8055,6 +8530,12 @@
   "stoneworks:recipes/building_blocks/andesite_paver_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-07 02:23:57 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/chiseled_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-07 02:29:11 +0000"
     },
     "done": true
   },
