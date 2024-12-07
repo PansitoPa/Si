@@ -2177,3 +2177,9 @@ BCLib - The End  BiomeSource (4431a6e7)
 [02:20:33] [Server thread/INFO]: [juab2as: Teleported juab2as to PawAngAng]
 [02:29:24] [Server thread/INFO]: juab2as has made the advancement [Tech Reborn]
 [02:34:30] [Server thread/INFO]: Reset all skills in category puffish_skills:prom for juab2as
+[02:38:51] [Server thread/INFO]: juab2as lost connection: Disconnected
+[02:38:51] [Server thread/INFO]: juab2as left the game
+[02:38:51] [Server thread/INFO]: remove player wand
+[02:38:51] [Server thread/INFO]: Updating all forceload tickets for f29d77b9-a4ae-33de-a4dd-72c5afc9ea42
+[02:38:51] [Server thread/WARN]: handleDisconnection() called twice
+[02:45:37] [Server thread/INFO]: You whisper to PawAngAng: Pilin
