@@ -2178,3 +2178,23 @@ BCLib - The End  BiomeSource (201a3ea2)
 [05:18:58] [Netty Epoll Server IO #3/INFO]: Priority overwritten for player PansitoPa. Claiming: GRAVE / Robbing: INVENTORY
 [05:19:02] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of PansitoPa accepted server config.
 [05:20:27] [Server thread/INFO]: [PansitoPa: Teleported PansitoPa to juab2as]
+[05:21:38] [Server thread/INFO]: PansitoPa was slain by juab2as
+[05:21:40] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of PansitoPa accepted server config.
+[05:21:44] [Server thread/INFO]: [PansitoPa: Teleported PansitoPa to juab2as]
+[05:21:46] [Server thread/INFO]: PansitoPa claimed a grave belonging to PansitoPa at -567, 24, -790, minecraft:overworld
+[05:21:57] [Server thread/INFO]: PansitoPa has made the advancement [Tech Reborn]
+[05:22:47] [Server thread/INFO]: PansitoPa has made the advancement [Ol' Betsy]
+[05:25:20] [Server thread/INFO]: [juab2as: Teleported juab2as to PansitoPa]
+[05:27:19] [Server thread/INFO]: PansitoPa was shot by Skeleton
+[05:27:21] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of PansitoPa accepted server config.
+[05:27:22] [Server thread/INFO]: [PansitoPa: Teleported PansitoPa to juab2as]
+[05:27:28] [Server thread/INFO]: PansitoPa claimed a grave belonging to PansitoPa at -558, 25, -745, minecraft:overworld
+[05:27:35] [Server thread/INFO]: PansitoPa has made the advancement [Take Aim]
+[05:30:02] [Server thread/INFO]: juab2as fell from a high place
+[05:30:04] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of juab2as accepted server config.
+[05:30:05] [Server thread/INFO]: [juab2as: Teleported juab2as to PansitoPa]
+[05:30:11] [Server thread/INFO]: juab2as claimed a grave belonging to juab2as at -555, -10, -724, minecraft:overworld
+[05:31:11] [Server thread/INFO]: PansitoPa was shot by Skeleton
+[05:31:13] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of PansitoPa accepted server config.
+[05:31:14] [Server thread/INFO]: [PansitoPa: Teleported PansitoPa to juab2as]
+[05:31:27] [Server thread/INFO]: [PansitoPa: Set own game mode to Spectator Mode]
