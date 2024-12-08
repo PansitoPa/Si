@@ -2198,3 +2198,11 @@ BCLib - The End  BiomeSource (201a3ea2)
 [05:31:13] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of PansitoPa accepted server config.
 [05:31:14] [Server thread/INFO]: [PansitoPa: Teleported PansitoPa to juab2as]
 [05:31:27] [Server thread/INFO]: [PansitoPa: Set own game mode to Spectator Mode]
+[05:31:40] [Server thread/INFO]: [PansitoPa: Set own game mode to Survival Mode]
+[05:31:41] [Server thread/INFO]: PansitoPa claimed a grave belonging to PansitoPa at -558, -24, -743, minecraft:overworld
+[05:34:03] [Server thread/INFO]: [PansitoPa: Set own game mode to Spectator Mode]
+[05:34:28] [Server thread/INFO]: juab2as has made the advancement [Full Moon in a Pocket]
+[05:36:56] [Server thread/INFO]: [juab2as: Set own game mode to Spectator Mode]
+[05:37:01] [Server thread/INFO]: [juab2as: Set own game mode to Survival Mode]
+[05:40:52] [Server thread/INFO]: [juab2as: Teleported juab2as to PansitoPa]
+[05:40:57] [Server thread/INFO]: [juab2as: Set own game mode to Spectator Mode]
